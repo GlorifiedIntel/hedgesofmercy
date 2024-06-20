@@ -10841,3 +10841,11 @@ html {
   background-repeat: no-repeat;
   min-height: 15rem;
 }
+
+/**** Others ***/
+
+.gyunri {
+  font-family: sans-serif;
+  font-size: 19px;
+  color: gray;
+}
